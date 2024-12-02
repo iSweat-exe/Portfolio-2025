@@ -1,0 +1,92 @@
+:root {
+
+    /* Type Scale */
+    --title-size: 64px;
+    --subtitle-size: 40px;
+    --tertiary-size: 32px;
+
+    --subheading-size: 24px;
+    --paragraph-size: 20px;
+    --subheading-size: 16px;
+    
+    /* Colors */
+    --white-design: #ffffff;
+    --black-design: #000000;
+    --gray-design: #626262;
+
+    --yellow-design: #F1DE36;
+    --blue-design: #527FE4;
+
+    /* Spacing */
+    --spacing-1: 5px;
+    --spacing-2: 10px;
+    --spacing-3: 15px;
+
+    --spacing-4: 20px;
+    --spacing-5: 25px;
+    --spacing-6: 30px;
+
+    --spacing-7: 40px;
+    --spacing-8: 50px;
+    --spacing-9: 80px;
+
+    --spacing-10: 140px;
+    --spacing-11: 200px;
+
+}
+
+/* Primary Button - Code */
+/* .primaryButton {
+    width: 180px;
+    height: 50px;
+    background-color: var(--yellow-design);
+    color: var(--black-design);
+    outline: 1px solid var(--yellow-design);
+    padding: 13px 50px;
+    font-weight: 800;
+    border-radius: 8px;
+    font-size: var(--subheading-size);
+    transition: all .3s ease;
+}
+
+.primaryButton:hover {
+    background-color: var(--black-design);
+    color: var(--yellow-design);
+    outline: 1px solid var(--yellow-design);
+} */
+
+
+
+
+
+/* Secondary Button - Code */
+/* .secondaryButton {
+  width: 180px;
+  height: 50px;
+  background-color: var(--black-design);
+  color: var(--yellow-design);
+  outline: 1px solid var(--yellow-design);
+  padding: 13px 50px;
+  font-weight: 800;
+  border-radius: 8px;
+  font-size: var(--subheading-size);
+  transition: all 0.3s ease;
+} */
+
+
+
+
+/* Tertiary Button - Code */
+/* .secondaryButton {
+  width: 180px;
+  height: 50px;
+  background-color: var(--black-design);
+  color: var(--yellow-design);
+  outline: 1px solid var(--yellow-design);
+  padding: 13px 50px;
+  font-weight: 800;
+  border-radius: 8px;
+  font-size: var(--subheading-size);
+  transition: all 0.3s ease;
+} */
+
